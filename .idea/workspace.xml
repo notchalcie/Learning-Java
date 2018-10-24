@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="606387fa-6fb5-4e8e-adb3-81099598ad3e" name="Default Changelist" comment="" />
+    <list default="true" id="606387fa-6fb5-4e8e-adb3-81099598ad3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HeadFirst/src/PracticeSpace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,18 +53,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="PracticeSpace" value="1" />
           <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HeadFirst/src/PracticeSpace">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -169,7 +179,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1540360535232" />
+        <entry key="$PROJECT_DIR$" value="1540360598574" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -406,7 +417,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540363958604" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540377398129" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -478,6 +489,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HeadFirst/src/VerticalLetterGenerator.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeadFirst/src/PracticeSpace">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
