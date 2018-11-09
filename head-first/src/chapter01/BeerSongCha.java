@@ -1,3 +1,5 @@
+package chapter01;
+
 public class BeerSongCha {
 
     public static void main(String[] args) {
