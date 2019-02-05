@@ -10,21 +10,12 @@ public class Sorting {
 
 
         sort.quick(arr);
-
+        BubbleSort bubble = new BubbleSort();
 
     }
 
     public void bubble(int[] array) {
-        int arraySize = array.length;
-        for (int i = 0; i < arraySize; i++) {
-            if (array[i] > array[i+1]) {
-                array[i] = array[i] + array[i+1];
-                array[i+1] = array[i] - array[i+1];
-                array[i] = array[i] - array[i+1];
-            }
-            System.out.print("Current arrangement" + array);
-        }
-        System.out.println("Sorted using Bubble Sort algorithm\n");
+
     }
 
     public void quick(int[] array) {
